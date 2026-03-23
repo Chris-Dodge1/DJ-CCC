@@ -1,4 +1,3 @@
-README.md
 # Chaos Runner (Unity Game)
 
 ## Description
@@ -8,7 +7,10 @@ Chaos Runner is a fast-paced Unity endless runner-style game where the player au
 
 ## Group Members
 - Caleb Sandoval  
-- Solo Project  
+- Chris Dodge
+- Charles Phan
+- Jean Bustamante
+- Diego Moreno  
 
 ---
 
