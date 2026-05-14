@@ -15,5 +15,3 @@ Folder: `ChaosRunner/`
 A separate 2D Unity game project created for the final assignment.
 
 Folder: `KingdomCrashers/`
-
-The Kingdom Crashers files will be added once they are available from the other group member's computer.
